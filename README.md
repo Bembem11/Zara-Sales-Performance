@@ -19,7 +19,7 @@ The dataset was gotten from an open online data source called Kaggle. [Download 
 
 - Github for Portfolio Building
 
-  ## Data Collected
+ ## Data Collected
   The dataset contains the following columns:
   - Product ID: Unique identifier for each product
   - Product Position: The position of the product in the store layout
@@ -29,6 +29,9 @@ The dataset was gotten from an open online data source called Kaggle. [Download 
   - Stock Keeping Unit: Unique code used to identify items available for use
   - Name: Name of the exact product
   - Price: Price of the product
-  - Section: Section or category where the product is sold in the store (e.g. women's clothing, men's clothing) 
+  - Section: Section or category where the product is sold in the store (e.g. women's clothing, men's clothing)
+
+## Project Objectives
+The analysis 
 
   
