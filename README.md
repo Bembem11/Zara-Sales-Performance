@@ -45,6 +45,7 @@ The analysis was done to observed the following sales trend:
 ### 1. Sales Performance
  - Zara has generated a total revenue of $39,018,228 based on both volume and pricing, especially with high-value items such as jackets, which contribute significantly to the revenue.
  - Zara has achieved a high volume of sales with 459,573 total units sold. This shows that Zara's products have strong demand across various categories and also successful promotional strategies.
+ - Average sales per product indicate a balanced sales performance across the clothing types
 
  ### 2. Sales by Product Placement
  - Products placed in the Aisle generated the highest sales volume by 177,396 units, followed by End-cap with 152,930 units and while Front of Store placement shows 129,247 units.
