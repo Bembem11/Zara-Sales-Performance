@@ -40,12 +40,13 @@ The analysis was done to observed the following sales trend:
 - Promotions: Analyze the impact of promotions sales on units sold and total revenue.
 - Product Price: Analyze the average price per product
 - Seasonal: Analyze the effect of seasonal sales on the total sales volume
+- 
 
 ## Findings and Insights
 ### 1. Sales Performance
  - Zara has generated a total revenue of $39,018,228 based on both volume and pricing, especially with high-value items such as jackets, which contribute significantly to the revenue.
  - Zara has achieved a high volume of sales with 459,573 total units sold. This shows that Zara's products have strong demand across various categories and also successful promotional strategies.
- - Average sales per product indicate a balanced sales performance across the clothing types
+ - Average sales per product indicate a balanced sales performance across the clothing type
 
  ### 2. Sales by Product Placement
  - Products placed in the Aisle generated the highest sales volume by 177,396 units, followed by End-cap with 152,930 units and while Front of Store placement shows 129,247 units.
@@ -70,6 +71,21 @@ The analysis was done to observed the following sales trend:
 ### 7. Seasonal Sales
 - Jackets and Sweaters play a significant role in Zara’s seasonal strategy, particularly in colder months, with jackets taking the lead.
 - The low seasonal count of Jeans is not heavily promoted or adjusted in stock according to the seasons, but they remain an essential product type.
+  
+
+## Recommendation
+- Jackets significantly contributing to the total revenue and sales volume, Zara should consider expanding the jacket category by introducing new designs and increasing marketing efforts for jackets especially during their peak season.
+-  Jeans and Sweaters which have a lower average sales. Increasing promotional efforts, using discounts or seasonal sales could boost their performance.
+
+### Product Placement Recommendation
+- Products placed at the Front of Store and End Cap tends to attract more customer attention and generate more sales than Aisle, Jackets and Shoes can be placed there to ensure high visiblity and also captalize on their high demand.
+- Seasonal products like sweaters can be strategically placed in high-traffic aisle sections during peak seasonal periods to improve customer awareness of seasonal collections.
+- Jeans can be paired with t-shirts or jackets to encourage cross-selling and drive higher sales.
+
+### Promo Recommendation
+- Women’s section has lower sales volumes compared to men’s, so we can increase sales by flash sales, influencer partnerships, or even enquiring on the latest fashion to know what to stock up on.
+- Sweaters tend to sell well during colder months. We can run promos during the peak season by offering limited-time discounts or exclusive online promotions.
+
  
   
   
