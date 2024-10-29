@@ -40,12 +40,10 @@ The analysis was done to observed the following sales trend:
 - Promotions: Analyze the impact of promotions sales on units sold and total revenue.
 - Product Price: Analyze the average price per product
 - Seasonal: Analyze the effect of seasonal sales on the total sales volume
-  <img width="593" alt="Screenshot 2024-10-29 170548" src="https://github.com/user-attachments/assets/6ceb1f3f-ea0f-4156-9fa0-ecd2aa763ee7">
-
+  
 
 ## Visualisation
-
-
+<img width="593" alt="my zara final dashboard!!!" src="https://github.com/user-attachments/assets/87bec465-2128-49f3-a06a-0bd2aad8b4e2">
 
 
 ## Findings and Insights
