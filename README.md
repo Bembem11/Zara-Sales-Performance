@@ -43,11 +43,7 @@ The analysis was done to observed the following sales trend:
   
 
 ## Visualisation
-<img width="593" alt="my zara final dashboard!!!" src="https://github.com/user-attachments/assets/454de085-0699-4117-b2f0-c916ece5f3ca">
-
-
-
-
+<img width="593" alt="Screenshot 2024-10-29 170548" src="https://github.com/user-attachments/assets/0f11caaa-4434-44a2-bae4-9a93b4b38c63">
 
 
 
