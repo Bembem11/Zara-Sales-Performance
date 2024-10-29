@@ -42,7 +42,9 @@ The analysis was done to observed the following sales trend:
 - Seasonal: Analyze the effect of seasonal sales on the total sales volume
   
 
-### Visualisation
+## Visualisation
+<img width="593" alt="my zara final dashboard!!!" src="https://github.com/user-attachments/assets/a639f039-0cb5-486b-b5c0-e0b8fc9d8006">
+
 
 ## Findings and Insights
 ### 1. Sales Performance
