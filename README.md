@@ -1,8 +1,9 @@
 # Zara-Sales-Performance
 This repository contains a Sales Performance Dashboard for Zara, providing key insights into product sales, revenue, and performance across different product positions and sections. The dashboard is designed to help analyze sales trends and make informed business decisions.
-## Project Overview
 
+## Project Overview
 The analysis focuses on Zara's sales performance by calcualting key metrics such as total revenue, total sales and average product sold.
+
 ## Data Source
 The dataset was gotten from an open online data source called Kaggle. [Download Here](https://www.kaggle.com)
 
@@ -30,11 +31,12 @@ The dataset was gotten from an open online data source called Kaggle. [Download 
   - Name: Name of the exact product
   - Price: Price of the product
   - Section: Section or category where the product is sold in the store (e.g. women's clothing, men's clothing)
+    
 
 ## Project Objectives
-The analysis was done to observed the following sales trend:
+The analysis was done to observe the following sales trend:
 - To show visual representation of Zara's key sales performance metrics, including total products sold, revenue generated, total sales, and average sales per product.
-- Optimize Product Placement: To measure how products placement within stores affects sales performance.
+- Optimize Product Placement: Toshow how products placement within stores affect sales performance.
 - Sales by Category: Show sales performance for different clothing types.
 - Men’s and Women’s Sections: Track and compare sales in Men’s and Women’s sections.
 - Promotions: Analyze the impact of promotions sales on units sold and total revenue.
@@ -50,7 +52,7 @@ The analysis was done to observed the following sales trend:
 ### 1. Sales Performance
  - Zara has generated a total revenue of $39,018,228 based on both volume and pricing, especially with high-value items such as jackets, which contribute significantly to the revenue.
  - Zara has achieved a high volume of sales with 459,573 total units sold. This shows that Zara's products have strong demand across various categories and also successful promotional strategies.
- - Average sales per product indicate a balanced sales performance across the clothing type
+ - Average sales per product indicate a balanced sales performance across the clothing type.
 
  ### 2. Sales by Product Placement
  - Products placed in the Aisle generated the highest sales volume by 177,396 units, followed by End-cap with 152,930 units and while Front of Store placement shows 129,247 units.
