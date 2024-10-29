@@ -40,7 +40,9 @@ The analysis was done to observed the following sales trend:
 - Promotions: Analyze the impact of promotions sales on units sold and total revenue.
 - Product Price: Analyze the average price per product
 - Seasonal: Analyze the effect of seasonal sales on the total sales volume
-- 
+  
+
+### Visualisation
 
 ## Findings and Insights
 ### 1. Sales Performance
@@ -53,7 +55,7 @@ The analysis was done to observed the following sales trend:
 - This shows that products placed at Aisle and End-cap are highly effective at attracting customer attention and driving sales
  
  ### 3. Clothing Types
- - Jackets are the top-performing product clothinh types, generating 189,249.82 average total sales, followed by Shoes 122,357.13 average total sales.
+ - Jackets are the top-performing product clothing types, generating 189,249.82 average total sales, followed by Shoes 122,357.13 average total sales.
  - Sweaters have the lowest sales volume with 99,932.41 average total sales among the clothing types.
 
  ### 4. Sales Performance by Section (Men vs. Women)
@@ -77,14 +79,29 @@ The analysis was done to observed the following sales trend:
 - Jackets significantly contributing to the total revenue and sales volume, Zara should consider expanding the jacket category by introducing new designs and increasing marketing efforts for jackets especially during their peak season.
 -  Jeans and Sweaters which have a lower average sales. Increasing promotional efforts, using discounts or seasonal sales could boost their performance.
 
-### Product Placement Recommendation
+### Product Placement 
 - Products placed at the Front of Store and End Cap tends to attract more customer attention and generate more sales than Aisle, Jackets and Shoes can be placed there to ensure high visiblity and also captalize on their high demand.
 - Seasonal products like sweaters can be strategically placed in high-traffic aisle sections during peak seasonal periods to improve customer awareness of seasonal collections.
 - Jeans can be paired with t-shirts or jackets to encourage cross-selling and drive higher sales.
 
-### Promo Recommendation
+### Promo and Season 
 - Women’s section has lower sales volumes compared to men’s, so we can increase sales by flash sales, influencer partnerships, or even enquiring on the latest fashion to know what to stock up on.
 - Sweaters tend to sell well during colder months. We can run promos during the peak season by offering limited-time discounts or exclusive online promotions.
+- Jackets perform well without promo so Zara can consider limiting discounts on their best seller
+
+### Section 
+- Women’s clothing accounts for only 13.49% of the total products but still generates a substantial number of sales, there’s potential to increase revenue by expanding the women's product line like introducing new designs, marketing campaigns, or promotions targeted specifically at jeans, t-shirts, and shoes to cater to a broader range of preferences and drive more sales.
+
+### Clothing Types
+- Jackets and shoes are top-selling clothing types based on total sales and revenue. They can expand the line by introducing more variations, designs, and colors.
+- The clothing types with the least sales and revenue like Jeans and Sweaters, Zara can offer limited-edition or trendy styles to attract customers.
+- They can also cross sell jeans and sweaters with the high performing types offering discounted prices (e.g., a jacket paired with jeans) to  improve performance in these underperforming categories.
+- Zara can explore current fashion trends such as sustainable clothing lines, influencer-inspired collections to spark new interest and restore customer engagement in these categories.
+
+  ### Price
+ - Zara can lower their prices or offer temporary discounts for the underperforming cllothing types to drive sales. Introduce more affordable options or basic lines in these categories could attract price-sensitive customers.
+ - Zara can compare their prices with competitors especially for popular items like jackets and t-shirts to make sure prices are competitive, while emphasizing Zara’s unique style and quality to justify any price differences.
+ - Zara can offer multiple price options e.g basic, mid-range, and premium versions, to cater for customers of different budgets.
 
  
   
