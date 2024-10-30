@@ -81,7 +81,7 @@ The analysis was done to observe the following sales trend:
 
 ## Recommendation
 - Jackets significantly contributing to the total revenue and sales volume, Zara should consider expanding the jacket category by introducing new designs and increasing marketing efforts for jackets especially during their peak season.
--  Jeans and Sweaters which have a lower average sales. Increasing promotional efforts, using discounts or seasonal sales could boost their performance.
+- However, increasing promotional efforts, using discounts or seasonal sales for jeans and sweaters could boost their performance
 
 ### Product Placement 
 - Products placed at the Aisle and End Cap tends to attract more customer attention and generate more sales than Front of Store, Jackets and Shoes can be placed there to ensure high visiblity and also captalize on their high demand.
