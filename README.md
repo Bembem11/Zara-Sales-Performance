@@ -84,7 +84,7 @@ The analysis was done to observe the following sales trend:
 -  Jeans and Sweaters which have a lower average sales. Increasing promotional efforts, using discounts or seasonal sales could boost their performance.
 
 ### Product Placement 
-- Products placed at the Front of Store and End Cap tends to attract more customer attention and generate more sales than Aisle, Jackets and Shoes can be placed there to ensure high visiblity and also captalize on their high demand.
+- Products placed at the Aisle and End Cap tends to attract more customer attention and generate more sales than Front of Store, Jackets and Shoes can be placed there to ensure high visiblity and also captalize on their high demand.
 - Seasonal products like sweaters can be strategically placed in high-traffic aisle sections during peak seasonal periods to improve customer awareness of seasonal collections.
 - Jeans can be paired with t-shirts or jackets to encourage cross-selling and drive higher sales.
 
