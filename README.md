@@ -1,4 +1,4 @@
-# -Sales-Performance
+# Zara Sales Performance
 This repository contains a Sales Performance Dashboard for Zara, providing key insights into product sales, revenue, and performance across different product positions and sections. The dashboard is designed to help analyze sales trends and make informed business decisions.
 
 ## Project Overview
